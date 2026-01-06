@@ -192,7 +192,7 @@ function Home() {
                   </span>
                   <span className="text-3xl md:text-4xl lg:text-5xl font-black">
                     <span className="bg-gradient-to-r from-amber-400 via-amber-500 to-amber-600 bg-clip-text text-transparent">
-                      "MEER"
+                      "MIR"
                     </span>
                   </span>
                   <span className="text-neutral-500">;</span>

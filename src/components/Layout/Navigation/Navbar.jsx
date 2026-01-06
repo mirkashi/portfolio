@@ -167,7 +167,7 @@ function Navbar() {
                 <motion.span 
                   className="text-xl font-bold bg-gradient-to-r from-neutral-100 via-amber-200 to-neutral-300 bg-clip-text text-transparent"
                 >
-                  Loop lord
+                  Kashif Mir
                 </motion.span>
                 <span className="text-neutral-500 font-medium text-sm block -mt-1">Developer</span>
               </div>

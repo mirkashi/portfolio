@@ -39,7 +39,7 @@ const MobileHome = memo(() => {
           <div>
             <p className="text-blue-400 font-medium mb-2">Hello, I'm</p>
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
-              <span className="gradient-text">Nguyen Tran Gia Si</span>
+              <span className="gradient-text">Kashif Mir</span>
             </h1>
             <div className="text-xl md:text-2xl text-slate-300 min-h-[2rem]">
               <TypeWriter 
@@ -83,7 +83,7 @@ const MobileHome = memo(() => {
           {/* Social Links */}
           <div className="flex gap-6 justify-center">
             <a 
-              href="https://github.com/giasinguyen" 
+              href="https://github.com/mirkashi" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-white p-2 rounded-lg hover:bg-slate-800/50 transition-colors"
@@ -91,7 +91,7 @@ const MobileHome = memo(() => {
               <FaGithub size={24} />
             </a>
             <a 
-              href="https://linkedin.com/in/giasinguyen" 
+              href="https://linkedin.com/in/mir-kashif-28987428b/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-slate-400 hover:text-blue-400 p-2 rounded-lg hover:bg-slate-800/50 transition-colors"

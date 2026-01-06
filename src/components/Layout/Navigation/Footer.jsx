@@ -13,17 +13,17 @@ const Footer = () => {
     {
       name: 'GitHub',
       icon: FaGithub,
-      url: 'https://github.com/giasinguyen'
+      url: 'https://github.com/mirkashi'
     },
     {
       name: 'LinkedIn',
       icon: FaLinkedin,
-      url: 'https://linkedin.com/in/giasinguyen'
+      url: 'https://linkedin.com/in/mir-kashif-28987428b/'
     },
     {
       name: 'Email',
       icon: FaEnvelope,
-      url: 'mailto:giasinguyentran@gmail.com'
+      url: 'mailto:mirkashi111@gmail.com'
     }
   ]
 
@@ -54,7 +54,7 @@ const Footer = () => {
             whileHover={{ scale: 1.02 }}
           >
             <span className="text-2xl font-bold text-neutral-100 tracking-tight">
-              Nguyen Tran Gia Si
+              Kashif Mir
             </span>
             <span className="text-amber-500 text-2xl">.</span>
           </motion.a>
@@ -109,7 +109,7 @@ const Footer = () => {
               >
                 <FaHeart className="text-xs" />
               </motion.span>
-              by <span className="text-neutral-400">Nguyen Tran Gia Si</span>
+              by <span className="text-neutral-400">Kashif Mir</span>
             </span>
             <span className="text-neutral-600">
               © {currentYear} All rights reserved.
