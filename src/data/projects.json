@@ -1,22 +1,22 @@
 [
-  {
-    "id": 1,
-    "title": "9tangle.com - Ebay consultant and ecommerce platform",
-    "description": "Enterprise-grade hotel management platform with AI-powered RAG chatbot using Google Gemini, RBAC with 70+ permissions, multi-branch management, booking system, and comprehensive analytics dashboard.",
-    "image": "httpsagemeurora-frontend/src/assets/images/commons/aurora-logo.png",
-    "tags": ["Spring Boot 3.5", "React 19", "PostgreSQL", "Redis", "Google Gemini AI", "RAG", "Docker", "TailwindCSS"],
+{
+  "id": 1,
+  "title": "9tangle.com - Ebay consultant and ecommerce platform",
+  "description": "This is a comprehensive LMS-based course selling website with an integrated eCommerce system. It allows users to purchase online courses as well as physical or digital products from a single platform.",
+  "image": "https://scontent.fmfg1-1.fna.fbcdn.net/v/t39.30808-6/615440542_122249759390136015_2098281370166363074_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEPMuEH8pjtxaj2qGSlzX1gpFRuc-CCSvekVG5z4IJK95Lga7HMS-lY_zvPMTAsTs7hgIpb9dhuo6Jf1-p7TmxH&_nc_ohc=f0ADufhD3C4Q7kNvwGPAoF7&_nc_oc=AdnS1TJmg9aXXovG0viwfjXJ3rYW6avXPWArKLJyx5tep3V_hvk5tC-NO2B0vNHIkc4&_nc_zt=23&_nc_ht=scontent.fmfg1-1.fna&_nc_gid=HQ9qZ89CZ-Q0P30_uDfp6Q&oh=00_Afq9A2olojXoAmazCEB7lnGs1LBSSU1ORLAqUtYgDktRCQ&oe=696AE9F3",
+    "tags": ["Spring Boot 3.5", "React 19", "PostgreSQL","Mongodb", "Redis", "Google Gemini AI", "Copilot", "TailwindCSS"],
     "category": "fullstack",
     "githubUrl": "https://github.com/mirkashi/LMS",
     "demoUrl": "https://www.aurorahotel.io.vn/",
-    "period": "October 2025 - December 2025",
+    "period": "December 2025 - January 2026",
     "role": "Team Leader & Backend Developer",
-    "teamSize": 4,
+    "teamSize": 2,
     "featured": true
   },
   {
     "id": 2,
-    "title": "CodeHub Platform",
-    "description": "Modern platform for developers to share, discover, and collaborate on code snippets with secure authentication, 70+ language support, real-time collaboration, and notification system.",
+    "title": "Ecommerce Website - Laptop stickers and accessories",
+"description": "This is a modern eCommerce website dedicated to selling high-quality laptop stickers and accessories. It offers a wide range of stylish and durable products with a smooth, secure, and user-friendly shopping experience.",
     "image": "https://github.com/giasinguyen/CodeHub/raw/main/CodeHub-Frontend/public/CodeHub-Logo-nobg.png",
     "tags": ["Spring Boot", "React", "JWT", "WebSocket", "MariaDB", "Cloudinary"],
     "category": "fullstack",
