@@ -15,7 +15,7 @@ import {
 import SEOHead from '../SEO/SEOHead'
 import { SEO_CONFIGS } from '../SEO/seoConfigs'
 
-const WEB3FORMS_ACCESS_KEY = "110d43b6-1f58-4df5-a1bb-1363142e734b";
+const WEB3FORMS_ACCESS_KEY = "bf97c621-5682-4698-8c47-6c08c158dd6d";
 
 function Contact() {
   const [formData, setFormData] = useState({
@@ -60,7 +60,7 @@ function Contact() {
           email: formData.email,
           message: formData.message,
           subject: `Portfolio Contact: Message from ${formData.name}`,
-          from_name: "GiaSi Portfolio"
+          from_name: "Looplord Portfolio"
         })
       });
 
