@@ -35,7 +35,7 @@ function Resume() {
       title: "Fullstack Developer",
       company: "Personal Projects",
       period: "April 2025 - Present",
-      location: "Ho Chi Minh City, Vietnam",
+      location: "Islamabad, Pakistan",
       achievements: [
         "Developed Portfolio website showcasing web development skills using React 19 and TailwindCSS 4",
         "Built CodeHub platform for developers to share and collaborate on code snippets with real-time features",
@@ -47,7 +47,7 @@ function Resume() {
       title: "Backend Developer (CodeHub Project)",
       company: "Personal Development",
       period: "June 2025 - July 2025",
-      location: "Ho Chi Minh City, Vietnam",
+      location: "Islamabad, Pakistan",
       achievements: [
         "Built full-stack platform using Spring Boot (Java 23) and Spring Security with JWT authentication",
         "Implemented RESTful APIs and WebSocket for real-time collaboration features",
@@ -60,12 +60,12 @@ function Resume() {
   // Education data - also memoized with real information
   const education = useMemo(() => [
     {
-      degree: "Bachelor of Software Engineering",
-      institution: "IUH - Industrial University of Ho Chi Minh City",
-      period: "August 2022 - Present",
-      location: "Ho Chi Minh City, Vietnam",
-      gpa: "3.44/4.0",
-      details: "Final-year Software Engineering student with solid experience in Java and Spring Boot. Passionate about backend development, database design, and building scalable applications."
+      degree: "Bachelor of Business and Information Technology (BBIT)",
+      institution: "Virtual University of Islamabad-Pakistan",
+      period: "September 2025- Present",
+      location: "Islamabad, Pakistan",
+      gpa: "2.5/4.0",
+      details: "Second-year Bachelor of Business and Information Technology (BBIT) student with a solid academic foundation in business studies and information technology. Coursework includes management principles, accounting, economics, information systems, database fundamentals, and web technologies. Focused on developing practical skills to integrate IT solutions with business needs and aiming to strengthen expertise in technology-driven business applications."
     }
   ], []);
 

@@ -116,8 +116,8 @@ function TechStack() {
   const projectHighlights = useMemo(() => [
     {
       id: 1,
-      name: "CodeHub Platform",
-      description: "Full-stack collaboration platform with real-time features",
+      name: "Solar-Expert Platform",
+      description: "Full-stack solar-expert platform with real-time features",
       techUsed: ["Java 23", "Spring Boot", "React", "WebSocket", "MariaDB"],
       highlight: "Real-time code collaboration with 70+ language support"
     },
