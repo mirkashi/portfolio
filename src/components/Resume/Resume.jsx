@@ -22,8 +22,8 @@ function Resume() {
 
   const handleDownloadPDF = useCallback(() => {
     const link = document.createElement('a')
-    link.href = '/documents/MIR KASHIF MEHMOOD.pdf'
-    link.download = 'MIR KASHIF MEHMOOD.pdf'
+    link.href = '/documents/resume.pdf'
+    link.download = 'resume.pdf'
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
