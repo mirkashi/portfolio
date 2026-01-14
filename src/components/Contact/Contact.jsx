@@ -60,7 +60,7 @@ function Contact() {
           email: formData.email,
           message: formData.message,
           subject: `Portfolio Contact: Message from ${formData.name}`,
-          from_name: "Looplord Portfolio"
+          from_name: "Kashif Mir Portfolio"
         })
       });
 
