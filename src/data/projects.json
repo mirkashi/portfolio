@@ -31,7 +31,7 @@
     "id": 3,
     "title": "Pak-Foods E-commerce",
     "description": "Premium organic food e-commerce platform with product browsing, shopping cart, JWT authentication, admin dashboard for inventory and analytics.",
-    "image": "https://private-user-images.githubusercontent.com/138784444/311462509-990039db-5d4b-4684-971c-f151eea0883a.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgzMTQwMDcsIm5iZiI6MTc2ODMxMzcwNywicGF0aCI6Ii8xMzg3ODQ0NDQvMzExNDYyNTA5LTk5MDAzOWRiLTVkNGItNDY4NC05NzFjLWYxNTFlZWEwODgzYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExM1QxNDE1MDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOGM0NTZmNWI3MDg2ZGQxZTI0OWJjYjkyNjNlNjhjYmIxMTRkMTNmMzM1YTQ5MTc1MzMwYzJiZDEwODNlOGZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._hWcsUuLEZJJwUC5RXmlaj9Dri79JJNnP_xzz1MTQnI",
+    "image": "https://scontent.fmfg1-1.fna.fbcdn.net/v/t39.30808-6/614946544_122249940194136015_6841606212866143442_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=x8shYgc13BYQ7kNvwFRKMQF&_nc_oc=AdkXhwPhVIkFI_37gnSrW_MJeBxSk_9CtvyXsGCIEB3jEkgFaQUnkdgsw3RGxVRJTas&_nc_zt=23&_nc_ht=scontent.fmfg1-1.fna&_nc_gid=vDlHendQte2fETS2KdwkFw&oh=00_AfrlA87N4T90Vyye5qWITaCq7K6IimvIZ3cd2ld29tNq_Q&oe=696CF4D6",
     "tags": ["Spring Boot", "React", "JWT", "MySQL", "Cloudinary", "Chart.js"],
     "category": "fullstack",
     "githubUrl": "https://github.com/mirkashi/Food-Restaurant",
