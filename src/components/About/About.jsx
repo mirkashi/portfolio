@@ -82,7 +82,7 @@ function About() {
               {/* Avatar Container */}
               <div className="w-56 h-56 md:w-64 md:h-64 rounded-2xl overflow-hidden border-2 border-neutral-800 bg-neutral-900">
                 <img
-                  src="/ChatGPT Image Apr 22, 2026, 10_14_56 AM.png"
+                  src="/ChatGPT Image May 18, 2026, 09_16_32 AM (1).png"
                   alt="Kashif Meer Avatar"
                   className="w-full h-full object-cover"
                   loading="lazy"
